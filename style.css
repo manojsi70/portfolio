@@ -1,4 +1,4 @@
-/* GENERAL */
+
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
@@ -6,7 +6,12 @@
   margin: 0;
   padding: 0;
 }
-
+/* #main_header{
+  overflow:hidden;
+  display: fixed !important;
+  height: 20px;
+  width: auto;
+} */
 body {
   font-family: "Poppins", sans-serif;
 }
@@ -14,7 +19,6 @@ body {
 html {
   scroll-behavior: smooth;
 }
-
 p {
   color: rgb(85, 85, 85);
 }
